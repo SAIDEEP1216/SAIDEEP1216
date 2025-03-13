@@ -1,14 +1,14 @@
 
-## 👋 Hi, I'm Saideep!
+# 👋 Hi, I'm Saideep!
 
-🔭 **Currently working on:** Embedded Systems & Firmware Development  
-🌱 **Learning:** Advanced RTOS, Linux Kernel, CAN protocol  
+## 🚀 About Me  
+I am passionate about **Embedded Systems, Robotics, and Firmware Development**.  
+I enjoy working on **low-level programming,  and FPGA-based designs**.
 
----
+## 🔧 Skills & Technologies  
+- 🖥 **Embedded Systems**: STM32, ARM Cortex-M, Bare-metal & RTOS  
+- 🔌 **Communication Protocols**: UART, SPI, I2C, CAN  
+- ⚡ **FPGA & Hardware Design**: Verilog, VHDL, AXI, Vivado  
+- 💻 **Firmware & Software Development**: C, C++, Rust (Beginner)  
+- 🔨 **Tools & Platforms**: Git, Linux, Qt, Vitis  
 
-### ⚡ **Tech Stack**
-💻 **Languages:** C, C++, Python, Rust  
-🔌 **Embedded:** STM32, ARM Cortex, RTOS, Bare Metal  
-🔹 **Tools:** Git, Vivado, Vitis HLS, CubeIDE, Keil  
-
----
