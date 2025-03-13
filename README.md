@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**SAIDEEP1216/SAIDEEP1216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm Saideep!
 
-Here are some ideas to get you started:
+🔭 **Currently working on:** Embedded Systems & Firmware Development  
+🌱 **Learning:** Advanced RTOS, Linux Kernel, CAN protocol  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ **Tech Stack**
+💻 **Languages:** C, C++, Python, Rust  
+🔌 **Embedded:** STM32, ARM Cortex, RTOS, Bare Metal  
+🔹 **Tools:** Git, Vivado, Vitis HLS, CubeIDE, Keil  
+
+---
